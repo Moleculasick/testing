@@ -1,0 +1,11 @@
+c:\users\criza\documents\visual studio 2015\Projects\Client-Server Application\Client-Server Application\bin\Debug\Client-Server Application.exe.config
+c:\users\criza\documents\visual studio 2015\Projects\Client-Server Application\Client-Server Application\bin\Debug\Client-Server Application.exe
+c:\users\criza\documents\visual studio 2015\Projects\Client-Server Application\Client-Server Application\bin\Debug\Client-Server Application.pdb
+c:\users\criza\documents\visual studio 2015\Projects\Client-Server Application\Client-Server Application\obj\Debug\Client-Server Application.exe
+c:\users\criza\documents\visual studio 2015\Projects\Client-Server Application\Client-Server Application\obj\Debug\Client-Server Application.pdb
+C:\Users\Asta-Hector\OneDrive\Desktop\Client-Server Application\Client-Server Application\bin\Debug\Client-Server Application.exe.config
+C:\Users\Asta-Hector\OneDrive\Desktop\Client-Server Application\Client-Server Application\bin\Debug\Client-Server Application.exe
+C:\Users\Asta-Hector\OneDrive\Desktop\Client-Server Application\Client-Server Application\bin\Debug\Client-Server Application.pdb
+C:\Users\Asta-Hector\OneDrive\Desktop\Client-Server Application\Client-Server Application\obj\Debug\SocketListener.csprojResolveAssemblyReference.cache
+C:\Users\Asta-Hector\OneDrive\Desktop\Client-Server Application\Client-Server Application\obj\Debug\Client-Server Application.exe
+C:\Users\Asta-Hector\OneDrive\Desktop\Client-Server Application\Client-Server Application\obj\Debug\Client-Server Application.pdb

@@ -1,0 +1,11 @@
+c:\users\criza\documents\visual studio 2015\Projects\SocketClient\SocketClient\bin\Debug\SocketClient.exe.config
+c:\users\criza\documents\visual studio 2015\Projects\SocketClient\SocketClient\bin\Debug\SocketClient.exe
+c:\users\criza\documents\visual studio 2015\Projects\SocketClient\SocketClient\bin\Debug\SocketClient.pdb
+c:\users\criza\documents\visual studio 2015\Projects\SocketClient\SocketClient\obj\Debug\SocketClient.exe
+c:\users\criza\documents\visual studio 2015\Projects\SocketClient\SocketClient\obj\Debug\SocketClient.pdb
+C:\Users\Asta-Hector\OneDrive\Desktop\Client-server Appplication\SocketClient\SocketClient\bin\Debug\SocketClient.exe.config
+C:\Users\Asta-Hector\OneDrive\Desktop\Client-server Appplication\SocketClient\SocketClient\bin\Debug\SocketClient.exe
+C:\Users\Asta-Hector\OneDrive\Desktop\Client-server Appplication\SocketClient\SocketClient\bin\Debug\SocketClient.pdb
+C:\Users\Asta-Hector\OneDrive\Desktop\Client-server Appplication\SocketClient\SocketClient\obj\Debug\SocketClient.csprojResolveAssemblyReference.cache
+C:\Users\Asta-Hector\OneDrive\Desktop\Client-server Appplication\SocketClient\SocketClient\obj\Debug\SocketClient.exe
+C:\Users\Asta-Hector\OneDrive\Desktop\Client-server Appplication\SocketClient\SocketClient\obj\Debug\SocketClient.pdb

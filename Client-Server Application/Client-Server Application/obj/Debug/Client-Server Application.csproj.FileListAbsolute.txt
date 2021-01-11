@@ -1,0 +1,6 @@
+c:\users\criza\documents\visual studio 2015\Projects\Client-Server Application\Client-Server Application\bin\Debug\Client-Server Application.exe.config
+c:\users\criza\documents\visual studio 2015\Projects\Client-Server Application\Client-Server Application\bin\Debug\Client-Server Application.exe
+c:\users\criza\documents\visual studio 2015\Projects\Client-Server Application\Client-Server Application\bin\Debug\Client-Server Application.pdb
+c:\users\criza\documents\visual studio 2015\Projects\Client-Server Application\Client-Server Application\obj\Debug\Client-Server Application.csprojResolveAssemblyReference.cache
+c:\users\criza\documents\visual studio 2015\Projects\Client-Server Application\Client-Server Application\obj\Debug\Client-Server Application.exe
+c:\users\criza\documents\visual studio 2015\Projects\Client-Server Application\Client-Server Application\obj\Debug\Client-Server Application.pdb
